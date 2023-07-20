@@ -27,4 +27,4 @@
 - Нравится ремонтировать советский автопром
 
 ##
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=PhilipSyachkov)
+![Посетители Badge](https://visitor-badge.laobi.icu/badge?page_id=PhilipSyachkov)
