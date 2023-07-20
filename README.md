@@ -16,7 +16,7 @@
 
 ## Случайный факт обо мне
 
-<img align="right" src="![Uploading FqArAeAzM9U.jpg…]()
+<img align="right" src="![FqArAeAzM9U](https://github.com/PhilipSyachkov/PhilipSyachkov/assets/137639321/a278a5c7-1807-4ed3-b468-d5f1fffd66f1)
 " height="245">
 
 - Нравится ремонтировать советский автопром
