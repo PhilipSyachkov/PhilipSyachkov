@@ -25,3 +25,6 @@
 ## Случайный факт обо мне
 
 - Нравится ремонтировать советский автопром
+
+##
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=PhilipSyachkov)
