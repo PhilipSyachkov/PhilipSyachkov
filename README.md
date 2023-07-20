@@ -5,9 +5,8 @@
 
 Меня зовут Филипп. Я начинающий QA Engineer. Здесь я хочу поделиться некоторыми элементами портфолио, полученными во время моей учебы и текущих стажировок.
 
-<img src="https://em-content.zobj.net/source/microsoft-teams/363/lady-beetle_1f41e.png" height="25" ></h2>
-<p>
   </p> 
+  
 ### Обо мне 
 
 
