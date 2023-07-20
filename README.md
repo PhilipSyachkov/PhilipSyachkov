@@ -16,6 +16,7 @@
 
 ## Случайный факт обо мне
 
-<img align="right" src="https://i.pinimg.com/originals/d2/12/ce/d212ce4c95954faf7427fbe941a554f8.gif" height="245">
+<img align="right" src="![Uploading FqArAeAzM9U.jpg…]()
+" height="245">
 
 - Нравится ремонтировать советский автопром
