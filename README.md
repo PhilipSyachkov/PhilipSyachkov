@@ -14,13 +14,6 @@
 - Проходил обучающую академию "TestIO", выполнял ТЗ, изучал и конспектировал теорию тестирования на "YouTube". В данный момент читаю книгу "Тестирование Dot Com" и участвую в тестировании стартап проекта.
 - Готов к переезду. И всё таки хотел бы получить возможность стажировки для получения опыта.
 
-##
-
-- Связь со мной [![Telegram Badge](https://img.shields.io/badge/-Telegram-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Philip_336) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:filipp07102005@gmail.com)
-
-
-
-
 
 ## Случайный факт обо мне
 
